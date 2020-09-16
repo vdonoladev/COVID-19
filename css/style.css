@@ -30,3 +30,16 @@ footer {
 	justify-content: center;
 	align-items: center;
 }
+
+svg {
+	height: 80vh;
+}
+
+g {
+	stroke: white;
+	stroke-width: 300px;
+}
+
+g:hover {
+	fill: green;
+}
