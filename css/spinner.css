@@ -5,19 +5,24 @@
     border-radius: 50%;
 }
 
-.blue{
+.blue {
     border: 5px solid lightblue;
     border-top-color: blue ;
 }
 
-.gold{
+.gold {
     border: 5px solid khaki;
     border-top-color: goldenrod;
 }
 
-.red{
+.red {
     border: 5px solid lightsalmon;
     border-top-color: red;
+}
+
+.green {
+    border: 5px solid #98FB98;
+    border-top-color: #3CB371;
 }
 
 @keyframes spin {

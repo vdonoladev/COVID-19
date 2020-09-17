@@ -81,6 +81,10 @@ g:hover {
 	background-color: #E74C3C;
 }
 
+.recuperados {
+	background-color: #90EE90;
+}
+
 .numeros {
 	display: flex;
 	justify-content: center;
